@@ -28,7 +28,7 @@ Readme
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre o projeto <!---write here : talk a little about project: what's does, example.  -->
 > Este foi o projeto desenvolvido na trilha Explorer da NLW eSports da Rocketseat. O objetivo do projeto é concentrar links dos jogos favoritos, streamers e dados de redes para pessoas se conectarem e jogarem juntos.
 
-  
+  >Link para acessar o projeto: https://joaovporfirio.github.io/nlw-esports-explorer/
   
   # Conhecimentos utilizados
 
